@@ -13,4 +13,4 @@ Building and Running the code:
 5)	After successful build, it will create a jar (<B>ebay-shopping-1.0-SNAPSHOT.jar</B>) file into the <B>target</B> folder.
 6)	Run this jar file through command: <B>java -jar target\ebay-shopping-1.0-SNAPSHOT.jar</B>
 6)  Server will be started and application is deployed on 8083 port. For example- Endpoint: http://localhost:8083/shipping/seller
-7)	SOAPUI/Postman or curl commands can be used to see all the working functionalities.
+7)	SoapUI/Postman or curl commands can be used to see all the working functionalities.
