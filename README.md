@@ -1,4 +1,3 @@
-# eBay_Coding_Challenge
 REST Web Service API that identifies whether or not an item is eligible for the new shipping program.
 
 Pre-requisities:
